@@ -1,13 +1,13 @@
 # MAX-PRO-X
 # ҒᏴ-ᏟᎡᎪᏟᏦ ᎪᎠᎷᏆΝ ᏴᎽ ᎪᏞᎻᎪᎫ
-# VERSION : 8.0
+# VERSION : 8.4
 # DAILY UPDATE PRO-X
 
 - git clone https://github.com/DARK-ALHAJ-404/MAX-PRO-X.git
 
 - cd MAX-PRO-X
 
-- python ALHAJ-MAX-PRO-X.py
+- python MAX-PRO-X4.py
 
 
 # FB GROUP : https://facebook.com/groups/fb.crack.termux.all.free.command/
